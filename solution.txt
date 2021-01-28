@@ -1,0 +1,2 @@
+A limit 230000 volt. A számok összege pedig: 70000.
+A megoldást a JS számolta.
